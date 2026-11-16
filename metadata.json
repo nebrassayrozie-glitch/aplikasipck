@@ -1,0 +1,6 @@
+{
+  "name": "PCK AL ADZKIYA - Religious Assessment System",
+  "description": "Sistem Penilaian Ciri Khusus Keagamaan SD Muhammadiyah Bilingual Fullday School Al Adzkiya dengan sinkronisasi Google Spreadsheet",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
